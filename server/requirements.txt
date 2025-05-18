@@ -1,0 +1,4 @@
+huggingface
+gtts
+flask
+flask_cors
